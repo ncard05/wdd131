@@ -141,7 +141,6 @@ section li{
 
 section a {
     color: var(--secondary-text-color);
-    text-decoration: none;
     padding: 10px;
     margin: 10px;
 }
@@ -157,7 +156,6 @@ section li:hover *{
 footer {
     background: var(--primary-color);
     padding: 2rem;
-
     justify-items: center;
     grid-column: 1 / 3;
   }
